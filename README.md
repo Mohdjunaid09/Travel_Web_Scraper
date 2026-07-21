@@ -120,7 +120,7 @@ Travel
 
 ## Author
 
-**Mohammed Junaid**
+**Mohammed Abdul Junaid**
 
 B.Tech CSE
 
